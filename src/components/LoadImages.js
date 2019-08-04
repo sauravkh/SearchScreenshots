@@ -9,6 +9,7 @@ import {
   ScrollView,
   View,
   Text,
+  ActivityIndicator,
   PermissionsAndroid
 } from 'react-native';
 
@@ -23,7 +24,12 @@ class LoadImages extends Component {
             photos : [],
             text:[],    
             search: '',
+            displayPhotos : [],
+            showImageLoadSpinner : true
         }
+
+        // this._SearchFilterFunction = this._SearchFilterFunction.bind(this)
+
     }
     clear = () => {
       this.search.clear();
@@ -67,7 +73,7 @@ class LoadImages extends Component {
         }
 
         // update state
-        this.setState({text : text_from_images})
+        this.setState({text : text_from_images,showImageLoadSpinner:false})
         console.log(this.state.text[0])
         console.log(this.state.photos)
       };
@@ -113,11 +119,18 @@ class LoadImages extends Component {
     }
 
 
-    SearchFilterFunction =(text) => {
+    _SearchFilterFunction = text => {
       //passing the inserted text in textinput
+      console.log("in search")
       const filteredPhotos = this.state.photos.filter(function(photo) {
         //applying filter for the inserted text in search bar
-        const allKeywords = photo.keywords_text.join(" ");
+        console.log(photo)
+        let allKeywords= "";
+        if(photo.keywords_text) {
+           allKeywords = photo.keywords_text.join(" ");
+        }else {
+          allKeywords = ""
+        }
         const itemData = allKeywords ? allKeywords.toUpperCase() : ''.toUpperCase();
         const textData = text.toUpperCase();
         return itemData.indexOf(textData) > -1;
@@ -136,16 +149,16 @@ class LoadImages extends Component {
     <View>
       <SearchBar 
         round
-        onChangeText={text => this.SearchFilterFunction(text)} 
+        onChangeText={text => {_SearchFilterFunction(text)}} 
         searchIcon={{ size: 24 }}
-        showLoading={true}
         onClear={text => this.SearchFilterFunction('')}
         placeholder="Enter keyword here..."
         value={this.state.search}
         > 
       </SearchBar>
+      <ActivityIndicator style={{opacity: this.state.showImageLoadSpinner ? 1.0 : 0.0}} indicator={this.state.showImageLoadSpinner} size="large" color="#0000ff" />
       <ScrollView>
-        {this.state.photos.map((p, i) => {
+        {this.state.displayPhotos.map((p, i) => {
         return (
         <View key={i}>
         <Image
