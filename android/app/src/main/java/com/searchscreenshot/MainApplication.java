@@ -19,7 +19,7 @@ import org.unimodules.core.interfaces.SingletonModule;
 import expo.modules.constants.ConstantsPackage;
 import expo.modules.permissions.PermissionsPackage;
 import expo.modules.filesystem.FileSystemPackage;
-
+import com.fetchsky.RNTextDetector.RNTextDetectorPackage;
 import java.util.Arrays;
 import java.util.List;
 
@@ -41,7 +41,8 @@ public class MainApplication extends Application implements ReactApplication {
           new MainReactPackage(),
           new ReanimatedPackage(),
           new RNGestureHandlerPackage(),
-          new ModuleRegistryAdapter(mModuleRegistryProvider)
+          new ModuleRegistryAdapter(mModuleRegistryProvider),
+          new RNTextDetectorPackage()
       );
     }
 

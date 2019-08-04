@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "357763624094",
+    "firebase_url": "https://searchscreenshots.firebaseio.com",
+    "project_id": "searchscreenshots",
+    "storage_bucket": "searchscreenshots.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357763624094:android:cf4cb07a2f02b2f1",
+        "android_client_info": {
+          "package_name": "com.searchscreenshot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357763624094-a6at8nl573q6ble4vqav8gds0k179s2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMwUTyOWCvcANG2ix43kE3d6RHSgYEYt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357763624094-a6at8nl573q6ble4vqav8gds0k179s2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

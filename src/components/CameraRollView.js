@@ -1,14 +1,18 @@
 import React, { Component, PropTypes } from 'react'
 import {
   CameraRoll,
+  FlatList,Button,
   PermissionsAndroid,
   Image,
   ScrollView,
   StyleSheet,
-  TouchableHighlight,Text,
+  TouchableHighlight,
+  Text,
   View,Dimensions
 } from 'react-native';
 const { width } = Dimensions.get('window')
+
+
 class CameraRollView extends Component {
 
  
@@ -25,7 +29,7 @@ class CameraRollView extends Component {
         groupTypes: 'SavedPhotos',
         errorMsg:''
       }
-   
+   this.getPhotosFromCameraRoll = this.getPhotosFromCameraRoll.bind(this)
     console.log('constuctor')
     console.log(this.state)
     
@@ -42,27 +46,25 @@ class CameraRollView extends Component {
         );
 
         return granted == PermissionsAndroid.RESULTS.GRANTED
-} 
-catch (err) {
-    console.log(err)
-  //Handle this error
-  return false;
-}
-}
+    } catch (err) {
+        console.log(err)
+        //Handle this error
+        return false;
+        }
+    }
 
 
-
-  componentDidMount() {
-    // get photos from camera roll
-    console.log("helo")
+getPhotosFromCameraRoll =() =>  {
+    console.log("inside get photos")
     if (this.requestExternalStoreageRead()){
         CameraRoll.getPhotos({
             first: 1000,
             assetType: 'All'
         })
         .then((r) => {
-            
-             this.setState({ photos: r.edges, summary: `Number of photos found ${r.edges.length}` })
+                console.log('eges are')
+                console.log(r.edges)
+             this.setState({ photos: r.edges,images:[1,2,3], summary: `Number of photos found ${r.edges.length}` })
     })
     .catch((error) => {
         console.log(error)
@@ -70,39 +72,83 @@ catch (err) {
     })
     
     }
+    console.log(this.state)
+    console.log('leaving get photos')
+}
 
-    console.log("mounted")
+  componentDidMount() {
+    // get photos from camera roll
+    console.log('before going into get hptos')
+    this.getPhotosFromCameraRoll()
+
     console.log(this.state.photos)
-    console.log("end --")
+    console.log("end of will mount")
     // CameraRoll.getPhotos(this.state.fetchParams, this._storeImages, this._logImageError);
   }
 
 
   render() {
+    console.log("start of render")
+    console.log(JSON.stringify(this.state.photos))
     return (
-      <View style={{flex: 1, backgroundColor: 'white'}}>
-          {console.log(this.state.photos)}
-          {this.state.images.length > 0?
-          <ScrollView contentContainerStyle={styles.scrollView}>
+
+        <FlatList
+            data={this.state}
             
-            {
-                this.state.photos.map((p, i) => {
-                  return (
+            renderItem={({p}) => 
+            
+            <Text  
+                      style={{
+                        backgroundColor:"green",
+                        width: 10,
+                        height: 50
+                      }}
+                      
+              > {p.summary}</Text>
+
+          }
+          />
+
+            // this.state.photos.length > 0 ?<FlatList
+            //     data={this.state.photos}
+                
+            //     renderItem={({p}) => 
+            //     <Image     
+            //               style={{
+            //                 backgroundColor:"blue",
+            //                 width: 50,
+            //                 height: 50
+            //               }}
+            //               source={{uri: p.node.image.uri}}
+            //       />
+  
+            //   }
+            //   />:<Text> No Images Yet</Text> 
+            
+    
+    //   <View style={{flex: 1, backgroundColor: 'white'}}>
+    //       {console.log(this.state.photos)}
+    //       {this.state.images.length > 0?
+    //       <ScrollView contentContainerStyle={styles.scrollView}>
+            
+    //         {
+    //             this.state.photos.map((p, i) => {
+    //               return (
                     
 
-                      <Image key={i}
-                        style={{
-                          width: 50,
-                          height: 50
-                        }}
-                        source={{uri: p.node.image.uri}}
-                      />
-                  )
-                })
-            }
-            </ScrollView>:<Text>Hii</Text>}
+    //                   <Image key={i}
+    //                     style={{
+    //                       width: 50,
+    //                       height: 50
+    //                     }}
+    //                     source={{uri: p.node.image.uri}}
+    //                   />
+    //               )
+    //             })
+    //         }
+    //         </ScrollView>:<Text>Hii</Text>}
 
-      </View>
+    //   </View>
     );
   }
 }

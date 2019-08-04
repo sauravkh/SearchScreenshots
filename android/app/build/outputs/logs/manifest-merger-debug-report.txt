@@ -7,8 +7,11 @@ INJECTED from /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/andro
 MERGED from [:react-native-reanimated] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-gesture-handler] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:expo-permissions] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.react:react-native:0.59.10] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/react-native-0.59.10.aar/8e713d96633ad64464788657d143a46f/AndroidManifest.xml:2:1-13:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6152fdb8e57f501277c3b012912b9cb1/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-text-detector] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/react-native-text-detector/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/react-native-0.59.10.aar/e63ea5b8f4aa95a55e49771a3800d9f1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0fb4855802e3946146b072ae1b399224/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.1.aar/45fcdecd914894f5365ddda8b3d35077/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-ml-vision:17.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-ml-vision-17.0.0.aar/a2d66ffab2056af62c6f616765c305f3/AndroidManifest.xml:2:1-8:12
 MERGED from [:unimodules-react-native-adapter] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:expo-app-loader-provider] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:expo-constants] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
@@ -30,50 +33,68 @@ MERGED from [:unimodules-task-manager-interface] /Users/TheSauravKharb/Desktop/r
 MERGED from [:unimodules-core] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:unimodules-image-loader-interface] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:unimodules-sensors-interface] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:transition:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/222495769819d90020b1432092369bc7/AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/cb6ef9d913794121a25faae906071c38/AndroidManifest.xml:2:1-12:12
-MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/263977db74ae92a368dd2feb818afb48/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/4a8b9ffb20db3050b29deb89839a66fe/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/fd6f1df9d30fefc3938712bbdd541fda/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/83e2c7e7aedfe662471a3a4c45d05fd2/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/f671a3b78c9b0a4beb5054c65f7441c2/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/059336a9bd0a144dda7a06d32b9384ee/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5b69a36d37287f1d325c60df91f2d112/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8e186598b5cbce10a93aad62d2893ca2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customtabs:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/717a0be0ec41ecb5b66cdc631ab3b48b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/65acd98df1b6542b73573cf1e4fc6952/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/662171b4361c08782aa68b79e6fe721e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/faa64126bbb839f179d041e59ac4b66b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a125e18aef4857771280aae4c7513181/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/6fb313e43791e9dd3f6f8e05e0c121ed/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/07181188a7cb7a146a3bbb841d9fed29/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/a63742946dc2cb535c4c4b4a467493e9/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/5e151bf0dd444ca0caeed760c040e60d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a01299f5209acb4dc4258fc41d4576de/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/139557f01cfc82b07a611d44f5749db0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/1964ea6f96e211d74ed753350d27beab/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/ef7678859131b6c39739c92a21036e55/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dd41a85f8021a7a0e585dd18b8cccb78/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/986a23aebc637834baedb1d3bf9db374/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9a29860a2ee2779e72bf7c751e071000/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bccd9c73f4ab2ed73f1adb77a3fbc27a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/99b5ea72ec80fafa7cea85149d0946b7/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/389df7fa901f00d14793f497f4ecb288/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/fac32134393191c08d4fcc6c9aba8ba3/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b87dd8d9d74b13fbe831cefd4e081862/AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/10d9d2dcba204d3318e8463286774d64/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:interpolator:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/eb8acd4f11d4663e1bbb007630ec050d/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0ea5a213e206117ee26933b6baf60d0d/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d3cda3b48d5b967ce010ecb03cd75dc9/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1ae5cf9ace13e0860eff6f4a3ea00791/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/92ac0d7f3821707bab558906b0c3ac0b/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/6f93e4e5c8bff70a527bb3e66158d596/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/951a605b9f182e935c5d6d11e88f29ce/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/d65a247c62e425f494a087a5fc594c97/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/c22fe0a9884e45a4d023f8b794899dd1/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/fa46a66ee9d4dd92436f61a45a871049/AndroidManifest.xml:2:1-13:12
-MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/ee42ae2337df2fe95dd8e0af464d2c3d/AndroidManifest.xml:2:1-30:12
-MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/05d384da204c12cf665685fbba0ff907/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:transition:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/f3fbf87d328235a91b69e40f563b6e11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/c36d4f000ffa942e1d4252808423e6ca/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/1a8c252343781b61e8380414f7931ce1/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.1.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.1.0.aar/0d32943d36464f77511b1b1cf6ab8896/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/3d048b3aa4685d129cbe36c47ae5d4a0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-vision-image-label-15.0.0.aar/84b89484b5e5805a0b6bb5b76d2ad502/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/afe499de043e66e81c06d6018262feb6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-ml-common:16.1.2] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-ml-common-16.1.2.aar/c911ee524f8ef092972d5007ad4e6534/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/5a4747213fe3bd043cb05dd8cf1f0923/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/538816e749726871752ead3b2ad39d2f/AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/b9e1e5ec6c54dd30614b464715aa0174/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/0cdf918b84ca131dcc015531d3f244de/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/9841863ea4968b8cb69efcd158a6eda6/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/40c2179d83330ba9bda9506345b3c95d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/60db8b3b1fb7a64c447e559e8701ea6f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/91daa19c4ce11f0cc07b02330a0f37f9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/4b7729a039ba2f643c0695ed108293c1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ef894770a1883c670ac68933bc8cf674/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/6ad080c92382605b257863c4d24d8f30/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/1b5f050c562beffd3795d4675053f67c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/4570bdf852b50866a8fe5e671c016e4e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/98e01b8c9e9b997e1152bc7903dbc684/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/23130cdfc262130e4e508f96c781d7f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/dee844504561d1f03f3970f27dacc92f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0fa69015a315b8e4180963fe1dd88131/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/607e402b81fa59ad7f586813fbaae3bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/94a7d6caf543b0ebadb90ac906a25b01/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/087b0ea2f7a491d3dde00aeb270f1f15/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/5e02f83b3bacbe3634de61c3fce2d844/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3fc1c315f96d1a0fa867285ca7ea68a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/ede7ae9f7746b233e2dfcf7e7bc1df3a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/fb13ee9b75076774e44c9b40b787fe4c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/62adac08b3bbcd764a40b2ff9eecd230/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f04e653f857a54deaaf40a6c7cba89e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f132208b89b00e3207116454e30f33c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/69af524a7aa08f219ec37e68b923d43d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/657226f43780ce3c1aa6017eb598e029/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/abe7ee803ddf86a6810c8537b9f0d346/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d1160014619720ae27de5a87ea0b7df1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/40e99ea1a0599df198b0e8f345b0fbb1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/87d26e4a9984ee1e2c4629ecb293ee12/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6d7d768df20f86e10c0526c457b95d55/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7582f48f0b958a5bc6e03f140ec14935/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e27cacdfeca984629b0ddc5ef62a226d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/45c6b310ad16c000924e9a3ce9bda00b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/52ac7d8bb9c1294f9f546fba6fd45f76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/adc572428d4a3d3f281a347348d3c0f6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c872f07b3269de3cf623a3d35ae9a1ea/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/fb85206d9674188a92ac1dea77c3649f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2396144688935cf395b9ab8cb1565f3e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/859f369480a2b378484f241f16ae9d3d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/cd576cb8a4ae04f087fc96e5764c77d1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/9088ce114a1a110bc34060346f921b12/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/0cc6db81eb3b087a24d5d388d9b39f1c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/693919da9db60dcc4251ca1911612cbd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/25d636785041bf8d5c3c0283d3aa371f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/da98019ea19d749294168fe5c6529e62/AndroidManifest.xml:2:1-13:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/bf03a1904cbf29e7471874d933be0848/AndroidManifest.xml:2:1-30:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/264946c77e7079a3970718ed09cca75f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.0.aar/d7b4213f6c9f99673259152ae2f1a6b0/AndroidManifest.xml:17:1-24:12
 INJECTED from /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/android/app/src/main/AndroidManifest.xml:1:1-48:12
 INJECTED from /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/android/app/src/main/AndroidManifest.xml:1:1-48:12
 INJECTED from /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/android/app/src/main/AndroidManifest.xml:1:1-48:12
@@ -95,6 +116,14 @@ uses-permission#android.permission.INTERNET
 ADDED from /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/android/app/src/main/AndroidManifest.xml:4:5-67
 MERGED from [:expo-file-system] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
 MERGED from [:expo-file-system] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/1a8c252343781b61e8380414f7931ce1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/1a8c252343781b61e8380414f7931ce1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/5a4747213fe3bd043cb05dd8cf1f0923/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/5a4747213fe3bd043cb05dd8cf1f0923/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
@@ -129,16 +158,16 @@ uses-permission#android.permission.ACCESS_COARSE_LOCATION
 ADDED from /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/android/app/src/main/AndroidManifest.xml:16:5-81
 MERGED from [:expo-location] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
 MERGED from [:expo-location] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
-MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/ee42ae2337df2fe95dd8e0af464d2c3d/AndroidManifest.xml:12:5-81
-MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/ee42ae2337df2fe95dd8e0af464d2c3d/AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/bf03a1904cbf29e7471874d933be0848/AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/bf03a1904cbf29e7471874d933be0848/AndroidManifest.xml:12:5-81
 	android:name
 		ADDED from /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/android/app/src/main/AndroidManifest.xml:16:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/android/app/src/main/AndroidManifest.xml:17:5-79
 MERGED from [:expo-location] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
 MERGED from [:expo-location] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
-MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/ee42ae2337df2fe95dd8e0af464d2c3d/AndroidManifest.xml:14:5-79
-MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/ee42ae2337df2fe95dd8e0af464d2c3d/AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/bf03a1904cbf29e7471874d933be0848/AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/bf03a1904cbf29e7471874d933be0848/AndroidManifest.xml:14:5-79
 	android:name
 		ADDED from /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/android/app/src/main/AndroidManifest.xml:17:22-76
 uses-permission#android.permission.CAMERA
@@ -179,36 +208,68 @@ ADDED from /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/android/
 		ADDED from /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/android/app/src/main/AndroidManifest.xml:25:22-70
 application
 ADDED from /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/android/app/src/main/AndroidManifest.xml:28:5-46:19
-MERGED from [com.facebook.react:react-native:0.59.10] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/react-native-0.59.10.aar/8e713d96633ad64464788657d143a46f/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.59.10] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/react-native-0.59.10.aar/8e713d96633ad64464788657d143a46f/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/react-native-0.59.10.aar/e63ea5b8f4aa95a55e49771a3800d9f1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/react-native-0.59.10.aar/e63ea5b8f4aa95a55e49771a3800d9f1/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.1.aar/45fcdecd914894f5365ddda8b3d35077/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.1.aar/45fcdecd914894f5365ddda8b3d35077/AndroidManifest.xml:7:5-20
 MERGED from [:expo-file-system] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
 MERGED from [:expo-file-system] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
 MERGED from [:expo-location] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
 MERGED from [:expo-location] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
-MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/cb6ef9d913794121a25faae906071c38/AndroidManifest.xml:10:5-20
-MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/cb6ef9d913794121a25faae906071c38/AndroidManifest.xml:10:5-20
-MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/263977db74ae92a368dd2feb818afb48/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/263977db74ae92a368dd2feb818afb48/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/4a8b9ffb20db3050b29deb89839a66fe/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/4a8b9ffb20db3050b29deb89839a66fe/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/fd6f1df9d30fefc3938712bbdd541fda/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/fd6f1df9d30fefc3938712bbdd541fda/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/83e2c7e7aedfe662471a3a4c45d05fd2/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/83e2c7e7aedfe662471a3a4c45d05fd2/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/f671a3b78c9b0a4beb5054c65f7441c2/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/f671a3b78c9b0a4beb5054c65f7441c2/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-compat:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dd41a85f8021a7a0e585dd18b8cccb78/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dd41a85f8021a7a0e585dd18b8cccb78/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/986a23aebc637834baedb1d3bf9db374/AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/986a23aebc637834baedb1d3bf9db374/AndroidManifest.xml:22:5-23:19
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/10d9d2dcba204d3318e8463286774d64/AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/10d9d2dcba204d3318e8463286774d64/AndroidManifest.xml:9:5-20
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/fa46a66ee9d4dd92436f61a45a871049/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/fa46a66ee9d4dd92436f61a45a871049/AndroidManifest.xml:11:5-20
-MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/ee42ae2337df2fe95dd8e0af464d2c3d/AndroidManifest.xml:18:5-28:19
-MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/ee42ae2337df2fe95dd8e0af464d2c3d/AndroidManifest.xml:18:5-28:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/c36d4f000ffa942e1d4252808423e6ca/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/c36d4f000ffa942e1d4252808423e6ca/AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/1a8c252343781b61e8380414f7931ce1/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/1a8c252343781b61e8380414f7931ce1/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/3d048b3aa4685d129cbe36c47ae5d4a0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/3d048b3aa4685d129cbe36c47ae5d4a0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-vision-image-label-15.0.0.aar/84b89484b5e5805a0b6bb5b76d2ad502/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-vision-image-label-15.0.0.aar/84b89484b5e5805a0b6bb5b76d2ad502/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/afe499de043e66e81c06d6018262feb6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/afe499de043e66e81c06d6018262feb6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/5a4747213fe3bd043cb05dd8cf1f0923/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/5a4747213fe3bd043cb05dd8cf1f0923/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/538816e749726871752ead3b2ad39d2f/AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/538816e749726871752ead3b2ad39d2f/AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/b9e1e5ec6c54dd30614b464715aa0174/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/b9e1e5ec6c54dd30614b464715aa0174/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/0cdf918b84ca131dcc015531d3f244de/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/0cdf918b84ca131dcc015531d3f244de/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/9841863ea4968b8cb69efcd158a6eda6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/9841863ea4968b8cb69efcd158a6eda6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/40c2179d83330ba9bda9506345b3c95d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/40c2179d83330ba9bda9506345b3c95d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/91daa19c4ce11f0cc07b02330a0f37f9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/91daa19c4ce11f0cc07b02330a0f37f9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/4b7729a039ba2f643c0695ed108293c1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/4b7729a039ba2f643c0695ed108293c1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ef894770a1883c670ac68933bc8cf674/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ef894770a1883c670ac68933bc8cf674/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/6ad080c92382605b257863c4d24d8f30/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/6ad080c92382605b257863c4d24d8f30/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/1b5f050c562beffd3795d4675053f67c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/1b5f050c562beffd3795d4675053f67c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/4570bdf852b50866a8fe5e671c016e4e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/4570bdf852b50866a8fe5e671c016e4e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/98e01b8c9e9b997e1152bc7903dbc684/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/98e01b8c9e9b997e1152bc7903dbc684/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d1160014619720ae27de5a87ea0b7df1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d1160014619720ae27de5a87ea0b7df1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/40e99ea1a0599df198b0e8f345b0fbb1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/40e99ea1a0599df198b0e8f345b0fbb1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/adc572428d4a3d3f281a347348d3c0f6/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/adc572428d4a3d3f281a347348d3c0f6/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/da98019ea19d749294168fe5c6529e62/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/da98019ea19d749294168fe5c6529e62/AndroidManifest.xml:11:5-20
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/bf03a1904cbf29e7471874d933be0848/AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/bf03a1904cbf29e7471874d933be0848/AndroidManifest.xml:18:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.0.aar/d7b4213f6c9f99673259152ae2f1a6b0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.0.aar/d7b4213f6c9f99673259152ae2f1a6b0/AndroidManifest.xml:22:5-20
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dd41a85f8021a7a0e585dd18b8cccb78/AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d1160014619720ae27de5a87ea0b7df1/AndroidManifest.xml:22:18-91
 	android:label
 		ADDED from /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/android/app/src/main/AndroidManifest.xml:30:7-39
 	android:roundIcon
@@ -255,10 +316,16 @@ MERGED from [:react-native-gesture-handler] /Users/TheSauravKharb/Desktop/react-
 MERGED from [:react-native-gesture-handler] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-permissions] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-permissions] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.59.10] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/react-native-0.59.10.aar/8e713d96633ad64464788657d143a46f/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.59.10] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/react-native-0.59.10.aar/8e713d96633ad64464788657d143a46f/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6152fdb8e57f501277c3b012912b9cb1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6152fdb8e57f501277c3b012912b9cb1/AndroidManifest.xml:20:5-44
+MERGED from [:react-native-text-detector] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/react-native-text-detector/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-text-detector] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/react-native-text-detector/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/react-native-0.59.10.aar/e63ea5b8f4aa95a55e49771a3800d9f1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/react-native-0.59.10.aar/e63ea5b8f4aa95a55e49771a3800d9f1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0fb4855802e3946146b072ae1b399224/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0fb4855802e3946146b072ae1b399224/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.1.aar/45fcdecd914894f5365ddda8b3d35077/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.1.aar/45fcdecd914894f5365ddda8b3d35077/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-vision:17.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-ml-vision-17.0.0.aar/a2d66ffab2056af62c6f616765c305f3/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-vision:17.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-ml-vision-17.0.0.aar/a2d66ffab2056af62c6f616765c305f3/AndroidManifest.xml:6:5-44
 MERGED from [:unimodules-react-native-adapter] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:unimodules-react-native-adapter] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:expo-app-loader-provider] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
@@ -301,94 +368,130 @@ MERGED from [:unimodules-image-loader-interface] /Users/TheSauravKharb/Desktop/r
 MERGED from [:unimodules-image-loader-interface] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:unimodules-sensors-interface] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:unimodules-sensors-interface] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:transition:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/222495769819d90020b1432092369bc7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/222495769819d90020b1432092369bc7/AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/cb6ef9d913794121a25faae906071c38/AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/cb6ef9d913794121a25faae906071c38/AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/263977db74ae92a368dd2feb818afb48/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/263977db74ae92a368dd2feb818afb48/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/4a8b9ffb20db3050b29deb89839a66fe/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/4a8b9ffb20db3050b29deb89839a66fe/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/fd6f1df9d30fefc3938712bbdd541fda/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/fd6f1df9d30fefc3938712bbdd541fda/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/83e2c7e7aedfe662471a3a4c45d05fd2/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/83e2c7e7aedfe662471a3a4c45d05fd2/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/f671a3b78c9b0a4beb5054c65f7441c2/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/f671a3b78c9b0a4beb5054c65f7441c2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/059336a9bd0a144dda7a06d32b9384ee/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/059336a9bd0a144dda7a06d32b9384ee/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5b69a36d37287f1d325c60df91f2d112/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5b69a36d37287f1d325c60df91f2d112/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8e186598b5cbce10a93aad62d2893ca2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8e186598b5cbce10a93aad62d2893ca2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/717a0be0ec41ecb5b66cdc631ab3b48b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/717a0be0ec41ecb5b66cdc631ab3b48b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/65acd98df1b6542b73573cf1e4fc6952/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/65acd98df1b6542b73573cf1e4fc6952/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/662171b4361c08782aa68b79e6fe721e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/662171b4361c08782aa68b79e6fe721e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/faa64126bbb839f179d041e59ac4b66b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/faa64126bbb839f179d041e59ac4b66b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a125e18aef4857771280aae4c7513181/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a125e18aef4857771280aae4c7513181/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/6fb313e43791e9dd3f6f8e05e0c121ed/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/6fb313e43791e9dd3f6f8e05e0c121ed/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/07181188a7cb7a146a3bbb841d9fed29/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/07181188a7cb7a146a3bbb841d9fed29/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/a63742946dc2cb535c4c4b4a467493e9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/a63742946dc2cb535c4c4b4a467493e9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/5e151bf0dd444ca0caeed760c040e60d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/5e151bf0dd444ca0caeed760c040e60d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a01299f5209acb4dc4258fc41d4576de/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a01299f5209acb4dc4258fc41d4576de/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/139557f01cfc82b07a611d44f5749db0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/139557f01cfc82b07a611d44f5749db0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/1964ea6f96e211d74ed753350d27beab/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/1964ea6f96e211d74ed753350d27beab/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/ef7678859131b6c39739c92a21036e55/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/ef7678859131b6c39739c92a21036e55/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dd41a85f8021a7a0e585dd18b8cccb78/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dd41a85f8021a7a0e585dd18b8cccb78/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/986a23aebc637834baedb1d3bf9db374/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/986a23aebc637834baedb1d3bf9db374/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9a29860a2ee2779e72bf7c751e071000/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9a29860a2ee2779e72bf7c751e071000/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bccd9c73f4ab2ed73f1adb77a3fbc27a/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bccd9c73f4ab2ed73f1adb77a3fbc27a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/99b5ea72ec80fafa7cea85149d0946b7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/99b5ea72ec80fafa7cea85149d0946b7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/389df7fa901f00d14793f497f4ecb288/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/389df7fa901f00d14793f497f4ecb288/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/fac32134393191c08d4fcc6c9aba8ba3/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/fac32134393191c08d4fcc6c9aba8ba3/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b87dd8d9d74b13fbe831cefd4e081862/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b87dd8d9d74b13fbe831cefd4e081862/AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/10d9d2dcba204d3318e8463286774d64/AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/10d9d2dcba204d3318e8463286774d64/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:interpolator:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/eb8acd4f11d4663e1bbb007630ec050d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/eb8acd4f11d4663e1bbb007630ec050d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0ea5a213e206117ee26933b6baf60d0d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0ea5a213e206117ee26933b6baf60d0d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d3cda3b48d5b967ce010ecb03cd75dc9/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d3cda3b48d5b967ce010ecb03cd75dc9/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1ae5cf9ace13e0860eff6f4a3ea00791/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1ae5cf9ace13e0860eff6f4a3ea00791/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/92ac0d7f3821707bab558906b0c3ac0b/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/92ac0d7f3821707bab558906b0c3ac0b/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/6f93e4e5c8bff70a527bb3e66158d596/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/6f93e4e5c8bff70a527bb3e66158d596/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/951a605b9f182e935c5d6d11e88f29ce/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/951a605b9f182e935c5d6d11e88f29ce/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/d65a247c62e425f494a087a5fc594c97/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/d65a247c62e425f494a087a5fc594c97/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/c22fe0a9884e45a4d023f8b794899dd1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/c22fe0a9884e45a4d023f8b794899dd1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/fa46a66ee9d4dd92436f61a45a871049/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/fa46a66ee9d4dd92436f61a45a871049/AndroidManifest.xml:7:5-9:41
-MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/ee42ae2337df2fe95dd8e0af464d2c3d/AndroidManifest.xml:8:5-10:41
-MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/ee42ae2337df2fe95dd8e0af464d2c3d/AndroidManifest.xml:8:5-10:41
-MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/05d384da204c12cf665685fbba0ff907/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/05d384da204c12cf665685fbba0ff907/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/f3fbf87d328235a91b69e40f563b6e11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/f3fbf87d328235a91b69e40f563b6e11/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/c36d4f000ffa942e1d4252808423e6ca/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/c36d4f000ffa942e1d4252808423e6ca/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/1a8c252343781b61e8380414f7931ce1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/1a8c252343781b61e8380414f7931ce1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.1.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.1.0.aar/0d32943d36464f77511b1b1cf6ab8896/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.1.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.1.0.aar/0d32943d36464f77511b1b1cf6ab8896/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/3d048b3aa4685d129cbe36c47ae5d4a0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/3d048b3aa4685d129cbe36c47ae5d4a0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-vision-image-label-15.0.0.aar/84b89484b5e5805a0b6bb5b76d2ad502/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-vision-image-label-15.0.0.aar/84b89484b5e5805a0b6bb5b76d2ad502/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/afe499de043e66e81c06d6018262feb6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/afe499de043e66e81c06d6018262feb6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-common:16.1.2] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-ml-common-16.1.2.aar/c911ee524f8ef092972d5007ad4e6534/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-common:16.1.2] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-ml-common-16.1.2.aar/c911ee524f8ef092972d5007ad4e6534/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/5a4747213fe3bd043cb05dd8cf1f0923/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/5a4747213fe3bd043cb05dd8cf1f0923/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/538816e749726871752ead3b2ad39d2f/AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/538816e749726871752ead3b2ad39d2f/AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/b9e1e5ec6c54dd30614b464715aa0174/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/b9e1e5ec6c54dd30614b464715aa0174/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/0cdf918b84ca131dcc015531d3f244de/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/0cdf918b84ca131dcc015531d3f244de/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/9841863ea4968b8cb69efcd158a6eda6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/9841863ea4968b8cb69efcd158a6eda6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/40c2179d83330ba9bda9506345b3c95d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/40c2179d83330ba9bda9506345b3c95d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/60db8b3b1fb7a64c447e559e8701ea6f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/60db8b3b1fb7a64c447e559e8701ea6f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/91daa19c4ce11f0cc07b02330a0f37f9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/91daa19c4ce11f0cc07b02330a0f37f9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/4b7729a039ba2f643c0695ed108293c1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/4b7729a039ba2f643c0695ed108293c1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ef894770a1883c670ac68933bc8cf674/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ef894770a1883c670ac68933bc8cf674/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/6ad080c92382605b257863c4d24d8f30/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/6ad080c92382605b257863c4d24d8f30/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/1b5f050c562beffd3795d4675053f67c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/1b5f050c562beffd3795d4675053f67c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/4570bdf852b50866a8fe5e671c016e4e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/4570bdf852b50866a8fe5e671c016e4e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/98e01b8c9e9b997e1152bc7903dbc684/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/98e01b8c9e9b997e1152bc7903dbc684/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/23130cdfc262130e4e508f96c781d7f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/23130cdfc262130e4e508f96c781d7f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/dee844504561d1f03f3970f27dacc92f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/dee844504561d1f03f3970f27dacc92f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0fa69015a315b8e4180963fe1dd88131/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0fa69015a315b8e4180963fe1dd88131/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/607e402b81fa59ad7f586813fbaae3bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/607e402b81fa59ad7f586813fbaae3bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/94a7d6caf543b0ebadb90ac906a25b01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/94a7d6caf543b0ebadb90ac906a25b01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/087b0ea2f7a491d3dde00aeb270f1f15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/087b0ea2f7a491d3dde00aeb270f1f15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/5e02f83b3bacbe3634de61c3fce2d844/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/5e02f83b3bacbe3634de61c3fce2d844/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3fc1c315f96d1a0fa867285ca7ea68a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3fc1c315f96d1a0fa867285ca7ea68a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/ede7ae9f7746b233e2dfcf7e7bc1df3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/ede7ae9f7746b233e2dfcf7e7bc1df3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/fb13ee9b75076774e44c9b40b787fe4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/fb13ee9b75076774e44c9b40b787fe4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/62adac08b3bbcd764a40b2ff9eecd230/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/62adac08b3bbcd764a40b2ff9eecd230/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f04e653f857a54deaaf40a6c7cba89e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/f04e653f857a54deaaf40a6c7cba89e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f132208b89b00e3207116454e30f33c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f132208b89b00e3207116454e30f33c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/69af524a7aa08f219ec37e68b923d43d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/69af524a7aa08f219ec37e68b923d43d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/657226f43780ce3c1aa6017eb598e029/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/657226f43780ce3c1aa6017eb598e029/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/abe7ee803ddf86a6810c8537b9f0d346/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/abe7ee803ddf86a6810c8537b9f0d346/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d1160014619720ae27de5a87ea0b7df1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d1160014619720ae27de5a87ea0b7df1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/40e99ea1a0599df198b0e8f345b0fbb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/40e99ea1a0599df198b0e8f345b0fbb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/87d26e4a9984ee1e2c4629ecb293ee12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/87d26e4a9984ee1e2c4629ecb293ee12/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6d7d768df20f86e10c0526c457b95d55/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6d7d768df20f86e10c0526c457b95d55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7582f48f0b958a5bc6e03f140ec14935/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7582f48f0b958a5bc6e03f140ec14935/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e27cacdfeca984629b0ddc5ef62a226d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e27cacdfeca984629b0ddc5ef62a226d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/45c6b310ad16c000924e9a3ce9bda00b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/45c6b310ad16c000924e9a3ce9bda00b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/52ac7d8bb9c1294f9f546fba6fd45f76/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/52ac7d8bb9c1294f9f546fba6fd45f76/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/adc572428d4a3d3f281a347348d3c0f6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/adc572428d4a3d3f281a347348d3c0f6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:interpolator:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c872f07b3269de3cf623a3d35ae9a1ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c872f07b3269de3cf623a3d35ae9a1ea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/fb85206d9674188a92ac1dea77c3649f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/fb85206d9674188a92ac1dea77c3649f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2396144688935cf395b9ab8cb1565f3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2396144688935cf395b9ab8cb1565f3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/859f369480a2b378484f241f16ae9d3d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/859f369480a2b378484f241f16ae9d3d/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/cd576cb8a4ae04f087fc96e5764c77d1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/cd576cb8a4ae04f087fc96e5764c77d1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/9088ce114a1a110bc34060346f921b12/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/9088ce114a1a110bc34060346f921b12/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/0cc6db81eb3b087a24d5d388d9b39f1c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/0cc6db81eb3b087a24d5d388d9b39f1c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/693919da9db60dcc4251ca1911612cbd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/693919da9db60dcc4251ca1911612cbd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/25d636785041bf8d5c3c0283d3aa371f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/25d636785041bf8d5c3c0283d3aa371f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/da98019ea19d749294168fe5c6529e62/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/da98019ea19d749294168fe5c6529e62/AndroidManifest.xml:7:5-9:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/bf03a1904cbf29e7471874d933be0848/AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/bf03a1904cbf29e7471874d933be0848/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/264946c77e7079a3970718ed09cca75f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/264946c77e7079a3970718ed09cca75f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.0.aar/d7b4213f6c9f99673259152ae2f1a6b0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.0.aar/d7b4213f6c9f99673259152ae2f1a6b0/AndroidManifest.xml:20:5-44
 INJECTED from /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -399,6 +502,12 @@ INJECTED from /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/andro
 		INJECTED from /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/android/app/src/main/AndroidManifest.xml
 		ADDED from /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/android/app/src/main/AndroidManifest.xml
+meta-data#com.google.firebase.ml.vision.DEPENDENCIES
+ADDED from [:react-native-text-detector] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/react-native-text-detector/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-13:31
+	android:value
+		ADDED from [:react-native-text-detector] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/react-native-text-detector/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-28
+	android:name
+		ADDED from [:react-native-text-detector] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/react-native-text-detector/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-66
 uses-permission#android.permission.STORAGE
 ADDED from [:expo-file-system] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-66
 	android:name
@@ -431,47 +540,205 @@ ADDED from [:expo-location] /Users/TheSauravKharb/Desktop/react-native/SearchScr
 		ADDED from [:expo-location] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
 	android:name
 		ADDED from [:expo-location] /Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-78
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/4a8b9ffb20db3050b29deb89839a66fe/AndroidManifest.xml:23:9-26:75
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/4a8b9ffb20db3050b29deb89839a66fe/AndroidManifest.xml:25:13-37
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/4a8b9ffb20db3050b29deb89839a66fe/AndroidManifest.xml:26:13-72
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/4a8b9ffb20db3050b29deb89839a66fe/AndroidManifest.xml:24:13-79
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/f671a3b78c9b0a4beb5054c65f7441c2/AndroidManifest.xml:23:9-25:69
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/f671a3b78c9b0a4beb5054c65f7441c2/AndroidManifest.xml:25:13-66
-	android:name
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/f671a3b78c9b0a4beb5054c65f7441c2/AndroidManifest.xml:24:13-58
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/ee42ae2337df2fe95dd8e0af464d2c3d/AndroidManifest.xml:13:5-79
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/1a8c252343781b61e8380414f7931ce1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/5a4747213fe3bd043cb05dd8cf1f0923/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/5a4747213fe3bd043cb05dd8cf1f0923/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:22:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/bf03a1904cbf29e7471874d933be0848/AndroidManifest.xml:13:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/bf03a1904cbf29e7471874d933be0848/AndroidManifest.xml:13:5-79
 	android:name
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/ee42ae2337df2fe95dd8e0af464d2c3d/AndroidManifest.xml:13:22-76
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/1a8c252343781b61e8380414f7931ce1/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/1a8c252343781b61e8380414f7931ce1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/5a4747213fe3bd043cb05dd8cf1f0923/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/5a4747213fe3bd043cb05dd8cf1f0923/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/1a8c252343781b61e8380414f7931ce1/AndroidManifest.xml:24:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/1a8c252343781b61e8380414f7931ce1/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:35:9-39:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/1a8c252343781b61e8380414f7931ce1/AndroidManifest.xml:27:18-89
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/1a8c252343781b61e8380414f7931ce1/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/1a8c252343781b61e8380414f7931ce1/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-16.0.1.aar/1a8c252343781b61e8380414f7931ce1/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/5a4747213fe3bd043cb05dd8cf1f0923/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/5a4747213fe3bd043cb05dd8cf1f0923/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/5a4747213fe3bd043cb05dd8cf1f0923/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.1.1.aar/5a4747213fe3bd043cb05dd8cf1f0923/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.1.aar/79eaab54960b6353a9eda35d7ce98f78/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:29:9-63
+permission#com.searchscreenshot.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:32:22-76
+uses-permission#com.searchscreenshot.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:32:22-76
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:42:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:45:13-49:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.searchscreenshot
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:48:27-58
+category#com.searchscreenshot
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:57:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:59:13-61:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:59:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/181f7e3f3e05f47d4acd6e0e02bad74f/AndroidManifest.xml:60:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/538816e749726871752ead3b2ad39d2f/AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/538816e749726871752ead3b2ad39d2f/AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/538816e749726871752ead3b2ad39d2f/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/538816e749726871752ead3b2ad39d2f/AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/538816e749726871752ead3b2ad39d2f/AndroidManifest.xml:10:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ef894770a1883c670ac68933bc8cf674/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ef894770a1883c670ac68933bc8cf674/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ef894770a1883c670ac68933bc8cf674/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ef894770a1883c670ac68933bc8cf674/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/98e01b8c9e9b997e1152bc7903dbc684/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/98e01b8c9e9b997e1152bc7903dbc684/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/98e01b8c9e9b997e1152bc7903dbc684/AndroidManifest.xml:24:13-58
 uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
-ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/ee42ae2337df2fe95dd8e0af464d2c3d/AndroidManifest.xml:15:5-98
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/bf03a1904cbf29e7471874d933be0848/AndroidManifest.xml:15:5-98
 	android:name
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/ee42ae2337df2fe95dd8e0af464d2c3d/AndroidManifest.xml:15:22-95
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/bf03a1904cbf29e7471874d933be0848/AndroidManifest.xml:15:22-95
 uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
-ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/ee42ae2337df2fe95dd8e0af464d2c3d/AndroidManifest.xml:16:5-94
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/bf03a1904cbf29e7471874d933be0848/AndroidManifest.xml:16:5-94
 	android:name
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/ee42ae2337df2fe95dd8e0af464d2c3d/AndroidManifest.xml:16:22-91
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/bf03a1904cbf29e7471874d933be0848/AndroidManifest.xml:16:22-91
 service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
-ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/ee42ae2337df2fe95dd8e0af464d2c3d/AndroidManifest.xml:19:9-21:40
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/bf03a1904cbf29e7471874d933be0848/AndroidManifest.xml:19:9-21:40
 	android:exported
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/ee42ae2337df2fe95dd8e0af464d2c3d/AndroidManifest.xml:21:13-37
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/bf03a1904cbf29e7471874d933be0848/AndroidManifest.xml:21:13-37
 	android:name
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/ee42ae2337df2fe95dd8e0af464d2c3d/AndroidManifest.xml:20:13-132
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/bf03a1904cbf29e7471874d933be0848/AndroidManifest.xml:20:13-132
 service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
-ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/ee42ae2337df2fe95dd8e0af464d2c3d/AndroidManifest.xml:22:9-24:40
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/bf03a1904cbf29e7471874d933be0848/AndroidManifest.xml:22:9-24:40
 	android:exported
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/ee42ae2337df2fe95dd8e0af464d2c3d/AndroidManifest.xml:24:13-37
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/bf03a1904cbf29e7471874d933be0848/AndroidManifest.xml:24:13-37
 	android:name
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/ee42ae2337df2fe95dd8e0af464d2c3d/AndroidManifest.xml:23:13-127
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/bf03a1904cbf29e7471874d933be0848/AndroidManifest.xml:23:13-127
 service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
-ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/ee42ae2337df2fe95dd8e0af464d2c3d/AndroidManifest.xml:25:9-27:40
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/bf03a1904cbf29e7471874d933be0848/AndroidManifest.xml:25:9-27:40
 	android:exported
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/ee42ae2337df2fe95dd8e0af464d2c3d/AndroidManifest.xml:27:13-37
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/bf03a1904cbf29e7471874d933be0848/AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/ee42ae2337df2fe95dd8e0af464d2c3d/AndroidManifest.xml:26:13-120
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/bf03a1904cbf29e7471874d933be0848/AndroidManifest.xml:26:13-120

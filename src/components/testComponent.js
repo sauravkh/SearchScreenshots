@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {View, Image, ScrollView, Button, CameraRoll} from 'react-native';
+import {View, Image,Text, ScrollView, Button, CameraRoll, FlatList} from 'react-native';
 
 
 class TestComponent extends Component {
@@ -53,17 +53,31 @@ class TestComponent extends Component {
       super(props)
       
       this.state = {
-        list = [1,3,4,5,6,67]
+        list : [1,3,4,5,6,67]
       }
     }
 
     
  render() {
-   this.state.list.map((item, index) => {
-    return (
-      <View style={{height: 50, width: 50, backgroundColor: 'orange', marginBottom: 10}} />
-    )
-   })
+
+  return (
+    <FlatList
+      data={this.state.list}
+      renderItem={({item}) => <Text>{item}</Text>}
+    />
+  )
+
+
+    // {console.log(this.state.list)}
+    // <ScrollView>  
+    //   {this.state.list.map((item, index) => {
+    //   return (
+    //     <Button key={index} title="fuck me up" ></Button>
+    //     // <View key = {index} style={{height: 50, width: 50, backgroundColor: 'orange', marginBottom: 10}} />
+    //   )
+    // })}
+    // </ScrollView>
+    
   // return (
   //   <View>
   //     <Button title="Load Images" onPress={this._handleButtonPress} />
@@ -86,6 +100,6 @@ class TestComponent extends Component {
   //   </View>
   // );
  }
-  }
+}
 
   export default TestComponent;

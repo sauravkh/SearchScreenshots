@@ -1,23 +1,28 @@
 import React, { Component } from 'react';
 
-import {Style, Text, View, Image} from 'react-native';
-import TestComponent from './src/components/testComponent';
-import CameraRollView from './src/components/CameraRollView';
+// import { Text, View} from 'react-native';
+import { createStackNavigator, createAppContainer } from 'react-navigation';
+import Home from './src/screens/Home';
+import Search from './src/screens/Search';
+
+// import LoadImages from './src/components/LoadImages';
+
+const AppNavigator = createStackNavigator(
+  {
+    Home,
+    Search
+  },
+  {
+    initialRouteName: 'Home'
+  }
+);
+const AppContainer = createAppContainer(AppNavigator);
 
 export default class App extends Component {
     render() {
-    let pic = {
-      uri: 'https://upload.wikimedia.org/wikipedia/commons/d/de/Bananavarieties.jpg'
-    };
     return (
-    <View>  
-        <Image source={pic} style={{width: 193, height: 110}}/>
-        {/* <CameraRollView>    </CameraRollView> */}
-        <TestComponent> </TestComponent>
-    </View>
-      
+      <AppContainer />
     );
 
   }
 }
-

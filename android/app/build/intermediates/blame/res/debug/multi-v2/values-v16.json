@@ -4,17 +4,7 @@
             "outputFile": "/Users/TheSauravKharb/Desktop/react-native/SearchScreenshots/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dd41a85f8021a7a0e585dd18b8cccb78/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "/Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6152fdb8e57f501277c3b012912b9cb1/res/values-v16/values-v16.xml",
+                    "source": "/Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0fb4855802e3946146b072ae1b399224/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/Users/TheSauravKharb/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d1160014619720ae27de5a87ea0b7df1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]
